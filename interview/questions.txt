@@ -1,0 +1,4 @@
+
+** Systems **
+	- How do engineers on kuiper interface with teams at AWS. Does kuiper pay them, what does that process look like
+	- I saw Project Kuiper Uses an adaptive modulation type what kind of modulation and what signal metrics are used

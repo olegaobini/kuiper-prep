@@ -1,0 +1,38 @@
+
+# Advice for Behavioural questions
+Your answers should have numbers, complexity , details on 
+situation in terms of what was the problem, stakeholders involved, conversations that happened,
+metrics measured KPIs. The step wise problem , resolution and impact should come out. 
+Don't stretch too much in beginning but be prepared this much in follow up questions.
+
+#chatgpt research
+    I am interviewing for <job posting link> with <interviewer linkedin link> on 
+    a technical phone screen. What kind of questions can I expect?
+
+    I am interviewing for <job posting link> with <interviewer linkedin link> 
+    on a technical phone screen. <job description line> is a core responsibility. 
+    What kind of questions can I expect? 
+
+    I am interviewing for the role of <job posting link> with Amazon. 
+    <linkedin profile link> is a loop interviewer. 
+    What kind of questions can I expect? 
+
+    I am interviewing for the role of <job posting link> with Amazon. 
+    The LPs & TCs associated are _____. What questions can I expect? 
+
+# General Internet Advice
+    Make at least 15-20 STAR format stories. 
+    Match LPs to stories, not the other way around. 
+    One story can be associated with multiple LPs.  
+
+    Share personal experiences and work experiences and really elaborate how 
+    you managed changed and how it affected you as a leader. 
+
+    you can ask for a quicker re-apply cool down, if your interview resaults 
+    were borderline
+
+    Make the interviewer understand **WHY** the situation was problematic
+    and **HOW** the task was challenging
+    Always have a description as to why that problem won't happen again
+
+    focus these: deep dive, disagree and commit, invent and simplify
